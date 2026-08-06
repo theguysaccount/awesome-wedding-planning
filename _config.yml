@@ -1,0 +1,18 @@
+title: Awesome Wedding Planning
+description: "Software for planning a wedding — seating charts and floor plans, RSVP and guest management, registries, budgeting, and tools for professional planners."
+url: "https://awesomedirectory.github.io"
+baseurl: "/awesome-wedding-planning"
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+twitter:
+  username: awesomedirectory
+  card: summary
+social:
+  name: Awesome Directory
+  links:
+    - https://github.com/awesomedirectory
+author:
+  name: Awesome Directory
+  url: https://github.com/awesomedirectory
+keywords: "wedding planning software, seating chart, rsvp, wedding website, awesome list, curated tools"

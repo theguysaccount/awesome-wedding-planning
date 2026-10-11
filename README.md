@@ -20,7 +20,7 @@ Wedding planning is a logistics problem wearing a nice dress: a guest list that 
 ## Seating Charts & Floor Plans
 *Arranging people in a room, then getting it onto paper.*
 
-* [ChartSeats: Seating Chart](https://apps.apple.com/us/app/chartseats-seating-chart/id6788839559) - Seating charts for weddings, receptions, classrooms, banquets, and private events.
+* [ChartSeats: Seating Chart](https://apps.apple.com/us/app/chartseats-seating-chart/id6788839559) - Mobile seating charts for weddings and events; [Google Play listing](https://play.google.com/store/apps/details?id=com.appfactory.chartseats).
 * [PerfectTablePlan](https://www.perfecttableplan.com) - Long-standing desktop seating planner for Windows and Mac, with automatic assignment from proximity rules.
 * [Prismm](https://www.prismm.com) - Formerly AllSeated; 3D venue diagramming and event visualization used across the venue and catering industry.
 * [Social Tables](https://www.socialtables.com) - Cvent's event diagramming and seating product, aimed at hotels and venues.
